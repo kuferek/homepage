@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    max-width: 1000px;
+    background-color: #b2d8fcd6;
+    font-family: 'Charis SIL', sans-serif;
+    margin: auto;
+    text-align: center;
+}
+
+.instagram {
+    text-decoration: underline;
+    font-style: italic;
+    color: white;
+}

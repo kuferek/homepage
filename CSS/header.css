@@ -1,0 +1,38 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.header__title {
+    color: #115059d4;
+    border: 5px #115059d4;
+    border-style: double;
+    border-radius: 8%;
+    width: 400px;
+    padding: 30px 10px;
+    margin: 70px auto;
+    font-size: 28px;
+    text-align: center;
+    box-shadow: inset -5px -5px 14px 10px rgba(17, 80, 89, 0.83);
+    font-family: 'League Gothic', sans-serif;
+    font-size: 50px;
+}
+
+.header__image {
+    border: 5px;
+    border-top-style: solid;
+    border-top-color: #953366;
+    border-left-style: solid;
+    border-left-color: #953366;
+    padding: 7px;
+    border-radius: 8%;
+    width: 300px;
+    box-shadow: inset -5px -5px 14px 10px #115059d4;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,37 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    overflow-x: auto
+}
+
+.table__caption {
+    caption-side: bottom;
+    text-align: right;
+}
+
+.table__tableCell {
+    border: 1px solid #115059d4;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table__tableCell--highlighted {
+    background-color: #3799a8d4;
+    color: white;
+    font-weight: bold;
+}
+
+
+.table__tableRow:hover {
+    background-color: #3799a8d4;
+}

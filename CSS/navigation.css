@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.navigation:hover {
+    color: #a5a5a5;
+    outline: none;
+}
+
+.navigation__list {
+    font-size: 18px;
+    font-family: 'Charis SIL', sans-serif;
+    font-style: italic;
+    padding: 0px;
+}
+
+.navigation__list--item {
+    color: black;
+}

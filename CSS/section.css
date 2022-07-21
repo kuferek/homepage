@@ -1,0 +1,38 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.section__header {
+    color: #115059d4;
+    font-family: 'League Gothic', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+    padding-top: 40px;
+}
+
+.section__markedWords {
+    color: #115059d4;
+    font-family: 'Charis SIL', sans-serif;
+    font-style: italic;
+}
+
+.section__button {
+    color: #ffffff;
+    background-color: #4e9ee9d6;
+    text-align: center;
+    border: 5px;
+}
+
+.section__paragraph {
+    background-color: #2e6f79d4;
+    color: #ffffff;
+}
+
+.section__arrow {
+    color: #ffffff
+}
