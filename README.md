@@ -5,6 +5,6 @@
 
 https://kuferek.github.io/homepage/
 
-### Descroption 
+### Description 
 
-On my first website you can find some information about me, where I am from, where I finished my study and my hobbies. Also you can see the **sweetest cat ever**! 
+On my first website you can find some information about me, where I am from, where I finished my chemical studies and my hobbies. Also you can see the **sweetest cat ever**! 
