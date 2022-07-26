@@ -1,4 +1,4 @@
-# Natalia Świec - about me
+# About Natalia Świec
 
 ![Natalia Świec](https://github.com/kuferek/homepage/blob/main/images/Natalia.JPG?raw=true)
 ### My first website:
